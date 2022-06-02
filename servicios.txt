@@ -1,0 +1,44 @@
+Mantenimiento y Soporte:
+-Soporte tecnico a equipos de computo.
+-Configuracion, instalación y mantenimientos preventivos y corectivos 
+a equipos de computo, Servidores, Cámaras de seguridad, Software, entre otros.
+-Servicios a domicilio y/o remotos.
+
+Infraestructura de redes y comunicaciones:
+-Cableado Estructurado.
+-Cuarto de comunicaciones.
+-Instalación y configuración de equipos de redes dependiendo la necesidad 
+de nuestros clientes. Access Point, Router, Bridge, Repetidores.
+-Configuración de Routers, RIP, RIPv2, EIGRP, OSPF, ACL Standard, ACL Extendidas.
+-Configuración de Switches.
+-Configuración de Vlans, Subredes.
+-Mantenimientos preventivos y correctivos a los equipos.
+-Recursos compartidos en la red.
+
+Servidores:
+-Instalación y configuración de servidores, Fisicos/Virtuales, Web Apache, 
+FTP, Bases de datos MySQL, Servidores Windows, GNU/Linux Debian.
+almacenamiento de datos, políticas de acceso, copias de seguridad, ect.
+
+Servicios y Consultoría:
+-Asesoramiento para la utilización de programas y herramientas tecnológicas.
+-Mantenimiento preventivo y correctivo de infraestructuras.
+-Análisis e implementación SEO en sitios web.
+-Consultoria e implementacion de dominios y alojamientos adecuados al cliente.
+-Evaluación y creación de redes.
+-Evaluación y gestión de servidores (almacenamiento de datos, políticas de acceso, copias de seguridad, ect).
+-Analisis de objetivos y elaboración de estrategias adaptadas a su actividad y entorno.
+-Elaboración de Plan estrategico de tecnologias de la información - PETI.
+-Configuracion e Implementacion de correos corporativos. 
+
+Diseño web:
+-Diseño, Creación e Implementación de sitios web a la medida adapatado a la necesidad de los clientes.
+-Análisis e implementación SEO.
+-Configuracion e Implementacion de dominios y alojamientos - Hosting
+
+Desarrollo de Software:
+-Desarrollo de software a la medida y necesidad del cliente.
+-Desarrollo de plataformas y aplicaciones web
+-Desarrollo de Aplicaciones de escritorio
+-Soporte y mantenimiento
+-Análisis de requerimiento
